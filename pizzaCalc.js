@@ -1,4 +1,4 @@
-var orderCount = 1;
+var orderCount = 0;
 // When called updates the orderCount
 function takeOrder(crustType, topping) {
   orderCount = orderCount + 1;
